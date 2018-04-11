@@ -1,0 +1,9 @@
+.fa-circle,.actions
+{
+    color: rgba(106, 106, 106, 0.68)
+}
+ .pending.fa-circle
+{
+    color:rgba(121, 209, 97, 0.728);
+}
+

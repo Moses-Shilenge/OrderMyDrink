@@ -1,0 +1,14 @@
+.quantity
+{
+    width: 50px;
+    border:none;
+}
+.operator
+{
+    border:none;
+    background-color:white;
+}
+
+.user, .room, .Order{
+  width: 400px;
+}
